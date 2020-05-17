@@ -30,5 +30,5 @@
 
 
 # Contributors
-* [Samuel](https://github.com/Thagana)
+* [ZikhonaSontlaba](https://github.com/ZikhonaSontlaba)
  
